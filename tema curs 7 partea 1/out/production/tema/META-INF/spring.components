@@ -1,0 +1,6 @@
+com.devmind.springapp.Autocar=org.springframework.stereotype.Component
+com.devmind.springapp.Camion=org.springframework.stereotype.Component
+com.devmind.springapp.Masina=org.springframework.stereotype.Component
+com.devmind.springapp.Motocicleta=org.springframework.stereotype.Component
+com.devmind.springapp.Motor=org.springframework.stereotype.Component
+com.devmind.springapp.Owner=org.springframework.stereotype.Component
